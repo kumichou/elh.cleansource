@@ -1,0 +1,1 @@
+A .NET 4 Winforms application that was a quick & dirty app created to clean directories of various files or folders. I used this to take directories & clean them of .svn or .DS_Store items in order to provide zip files of source code. Can be used to clean based on any pattern and certainly can be improved in may ways.
